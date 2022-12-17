@@ -10,4 +10,4 @@ A way to visualize this is to draw the pieces on a diamond-like shape.
 
 <img src="https://github.com/coscholz1984/WheelPuzzle/blob/main/Diamond1.jpg" alt="Puzzle on a diamond - side" height="300"/><img src="https://github.com/coscholz1984/WheelPuzzle/blob/main/Diamond2.jpg" alt="Puzzle on a diamond - top" height="300"/>
 
-My code is public domain. There is no warranty.
+The code in this repository is released to the public domain. There is no warranty whatsoever. Dec. 2022
